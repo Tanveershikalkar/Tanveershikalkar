@@ -1,0 +1,8 @@
+// script.js
+
+// Example function to add more dynamic content
+function greetUser() {
+    alert("Welcome to my portfolio website!");
+}
+
+window.onload = greetUser;
